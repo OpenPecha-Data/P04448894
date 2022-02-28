@@ -1,0 +1,224 @@
+id: P04448894
+initial_creation_type: input
+source_metadata:
+  title: Jigme Lingpa Series
+  language: fr
+  description: A series of texts by and about the great Dzogchen master Rigdzin Jigme
+    Lingpa (rig 'dzin 'jigs med gling pa, 1730–1798), who revealed the Longchen Nyingtik
+    (klong chen snying thig) collection.
+  volume:
+    e20487a14a594e91aeb41aaf059047ea:
+      title: An Aspiration for the Final Age
+      parent: Aspiration Prayers
+    1411d7b3a0974897a6e3b598339aafee:
+      title: Aspiration to Be Reborn in the Realm of Sukhāvatī
+      parent: Aspiration Prayers
+    b428ad32f74149c7977af0a8a11d4e6e:
+      title: 'Entering the City of Omniscience: An Aspiration Prayer for Actualizing
+        Words of Truth'
+      parent: Aspiration Prayers
+    60edf53666f343ea9ead7206cf88c1dd:
+      title: The Prayer of the Ground, Path & Fruition – From the Heart-Essence of
+        the Vast Expanse
+      parent: Aspiration Prayers
+    4ab81b85f17e437ca25f13a21bbed2d5:
+      title: 'The Single Oceanic Wisdom: An Aspiration to Recognise the Bardos'
+      parent: Aspiration Prayers
+    dceeb9a22c404515a7eb21932e1538ba:
+      title: 'Precise Discernment of Dharmas: A Catalogue of the Complete Collected
+        Works of the Omniscient King of Dharma, Rigdzin Jigme Lingpa'
+      parent: Catalogues
+    e8eef4ec2ea6449abed54015ffe3d909:
+      title: 'Elucidating the Body Maṇḍala: Clarifications on the Recitation Manual
+        of the Female Practice of the Queen of Great Bliss'
+      parent: Commentaries
+    c365f6d1af334283ba283bc53b84c6aa:
+      title: Main Recitation Manual for the Female Practice of the Queen of Great
+        Bliss
+      parent: Commentaries
+    b5b4390d0474483d9cf9a98c1afa4ae2:
+      title: 'The Casket of Siddhis: A Recitation Manual for “Vidyādhara Assembly”
+        (Rigdzin Düpa)'
+      parent: Commentaries
+    5a9c7772e9af4e73b95287776123beda:
+      title: 'The Loud Drum of Spring: A Commentary on the Difficult Points of the
+        Ritual of the Great Compassionate One, Natural Liberation of Suffering'
+      parent: Commentaries
+    ae0bb00d779749d4b6f6b3759e2ba31a:
+      title: 'The Words of the Awesome Ones: A General Overview of the Three Yogas
+        from the Heart-Essence of the Vast Expanse'
+      parent: Commentaries
+    05528f6e55ac434883427447bd4e1e1c:
+      title: The Spontaneous Vajra Song of Fulfilment and Confession
+      parent: Confession
+    33803fa6011b4997bbb2d8510029f6f3:
+      title: A Practice of Fulfilment and Confession to an Ocean of Oath-bound Protectors
+      parent: Dharma Protectors
+    cc8fd7e3302b492d8110444d85a925ed:
+      title: Vajra Verses on the Natural State
+      parent: Dzogchen
+    37c610b52b644829900b700eb6d6db74:
+      title: A Ritual of Blessing and Empowerment for the Female Practice, from the
+        Heart Essence of the Vast Expanse
+      parent: Empowerment Rites
+    2c124cb0b921461989e2739175733876:
+      title: 'Illuminating the Meaning of Empowerment: A Self-Initiation for the Female
+        Practice of the Ḍākinī'
+      parent: Empowerment Rites
+    8da0dde653fe45baa9e72dd92dc9dd6e:
+      title: The Root Empowerment of the Vase Conferring Majesty from the Heart-Essence
+        of the Vast Expanse
+      parent: Empowerment Rites
+    d610f8e1e5004101b2ae3e7f1de90f62:
+      title: A Prayer Invoking the Benefits of the Festival of the Tenth Day
+      parent: Guru Rinpoche Prayers
+    a20709b687c84697b1c5e241545a8835:
+      title: A Prayer of Devotion, to Make the Tears Fall
+      parent: Guru Rinpoche Prayers
+    3236e40ee7cb42189707ddc7f502acda:
+      title: Secret Path to the Mountain of Glory—A Prayer of Aspiration for the Copper-Coloured
+        Mountain of Glory
+      parent: Guru Rinpoche Prayers
+    514b52a7ec564030bb6d5ec245319c90:
+      title: The Prayer that Swiftly Fulfils All Wishes (Sampa Nyur Drupma)
+      parent: Guru Rinpoche Prayers
+    20c75bb5603d4b32a8dca08f0b26c3f8:
+      title: Training in the Pure Realms of the Three Kāyas
+      parent: Guru Rinpoche Prayers
+    6c42a6cda4174e97a8b632c094e46551:
+      title: Guru Yoga of Rigdzin Jigme Lingpa
+      parent: Guru Yoga
+    be05ce7ee8a148bc84be105d44d8fe0a:
+      title: 'The Wish-Fulfilling Jewel: The Outer Practice of Guru Yoga from the
+        Heart-Essence of the Vast Expanse'
+      parent: Guru Yoga
+    490f958b68ce429a80ef279f19584073:
+      title: The History of the Female Practice of the Queen of Great Bliss
+      parent: History
+    b9ffdb2bd60246b983af5e5272a4ba58:
+      title: Palchen Düpa Lineage Prayer
+      parent: Lineage Prayers
+    80c4b6ec441e40dda5e6c39aef40543d:
+      title: 'The Continuous Shower of Blessings: A Prayer to the Lineage of the Great
+        Perfection’s Heart-Essence of the Vast Expanse (Dzogpachenpo Longchen Nyingtik)'
+      parent: Lineage Prayers
+    3175e63092d64d5f88ed93a095d6c7f8:
+      title: 'Skull Fragments: The Root Tantra of the Vidyādharas'
+      parent: Longchen Nyingtik
+    3956fbaf1913425499a165ce78cec261:
+      title: 'The Excellent Path to Omniscience: The Dzogchen Preliminary Practice
+        of Longchen Nyingtik'
+      parent: Ngöndro
+    e95c1eb2993e475c8b700ef40d33850c:
+      title: 'The Kalaviṅka’s Call: A Guide to Glorious Samye Chimphu'
+      parent: Pilgrimage
+    0048fe087a2e4e00a6488bdd05a85294:
+      title: A Practice of Paying Homage and Making Offerings to the Sixteen Elders
+      parent: Practices
+    b89a40a5e05a41549384fbf5af5965ee:
+      title: 'Cultivating the Pure Realm of Manifest Joy: A Guru Yoga of Vajrasattva'
+      parent: Practices
+    8c8937814842429ebb8a8492e1c0809f:
+      title: Descent of Blessings of the Eight Vidyādharas
+      parent: Practices
+    d822a015c9af42f78cfc1b3f892428cd:
+      title: 'Excellent Intention: A Simple Fasting (Nyungne) Ritual'
+      parent: Practices
+    8215ffa63958434c9222e6a740a6a205:
+      title: 'Rain of Accomplishments: A Concise Fulfilment Practice for the Female
+        Awareness-Holder (Yumka)'
+      parent: Practices
+    6ff0af9fab7641c8a34164b6c99ce3df:
+      title: 'The Blissful Path of Action Tantra: A Ritual for Taking the One-Day
+        Vows of a Lay Practitioner'
+      parent: Practices
+    b37723524b354f1590d0e2777ee4c9ba:
+      title: The Eight-Branch Offering from the Gyüluk Phurba
+      parent: Practices
+    27d6badc9e304f5e9419c3b91a4c1518:
+      title: 'The Treasury of the Four Activities: A Fire Offering to Yumka'
+      parent: Practices
+    881346cfeaa34655ad8ba5a37fa9baaa:
+      title: 'The Vase of Immortal Life: The Long-Life Practice of the Vidyādharas,
+        from the Heart Essence of the Vast Expanse'
+      parent: Practices
+    866347553bae4429803f5f5ef556c574:
+      title: In Praise of Jigme Lingpa’s Pre-Eminence
+      parent: Praise
+    2c6bab057edf4589ab5d4646df74874b:
+      title: In Praise of the Goddess Mārīcī (Özerchenma)
+      parent: Praise
+    cbc7a401c5464269bb9452d52a86ebc2:
+      title: Praise of the Twelve Acts of the Buddha
+      parent: Praise
+    37e15b36bdd240f1ac0f15970b1bf841:
+      title: A Prayer Recalling the Life and Liberation of the Great Perfection Adept
+        Rangjung Dorje (‘Naturally Arisen Vajra’), Jigme Lingpa
+      parent: Prayers
+    920877cf5e20468888d7b87e9d2eb110:
+      title: A Prayer to Jowo Rinpoche Combined with Aspirations and a Means to Receive
+        the Four Empowerments
+      parent: Prayers
+    e00ccb2c89c244718f3ff15650275b77:
+      title: 'Devotion that Pierces the Heart: A Prayer to the Omniscient Jigme Lingpa'
+      parent: Prayers
+    74819da0fd7b4c759def8e26f04edb7a:
+      title: Prayer to Rigdzin Jigme Lingpa Invoking His Previous Incarnations
+      parent: Prayers
+    2d489fc32ab04204addc09377cae1d35:
+      title: Prayer to the Garland of Rebirths of the Dzogchenpas of Eastern Tibet
+      parent: Prayers
+    35370e1828d7460ea22947e403e12085:
+      title: 'The Vajra Verses: A Prayer of the Fierce Inner Heat'
+      parent: Prayers
+    b4fcade9e010482d8cc08a1f5c736240:
+      title: 'The Vision: A Prayer to Ārya Avalokiteśvara'
+      parent: Prayers
+    33c3e0302cd24404ac5e189d03b53ca7:
+      title: 'A Glimpse of the Crucial Points: The Vidyādhara''s Manual of Concealed
+        Instructions'
+      parent: Sādhanas
+    53f6f05dc3e74820b9482c99c15ae24a:
+      title: A Glorious Garland of Great Bliss, the Root Sādhana of the Queen of Great
+        Bliss, Yumka Tsogyal, from the Heart Essence of the Vast Expanse
+      parent: Sādhanas
+    e5b00e5a6701446db4f26b0c97be2bdc:
+      title: A Sādhana of Hayagrīva’s Assembly, from the Heart-Essence of the Vast
+        Expanse
+      parent: Sādhanas
+    07cabf76e8844f19ba5392a4e9e4ac4a:
+      title: 'Adornment of Lord Nāgārjuna’s Wisdom Mind: The Fourfold Maṇḍala Offering
+        to Tārā'
+      parent: Sādhanas
+    ec2de16bd1e944b9ae94d16ea2f6c5f3:
+      title: Awesome Ones’ Assembly (Palchen Düpa), the Heart Practice of the Awareness-Holders
+      parent: Sādhanas
+    7d21a7817c9f4ef0a627c5c0686c447d:
+      title: Sādhana of the Great Master Vairotsana
+      parent: Sādhanas
+    a1a67d6f05c1409bb053d22f88545153:
+      title: The Secret Practice of the Great Compassionate One, Natural Liberation
+        of Suffering
+      parent: Sādhanas
+    983586057efc49b4b3a6d0565a757140:
+      title: The Vidyādhara Assembly (Rigdzin Düpa), the Inner Practice from the Heart
+        Essence of the Vast Expanse
+      parent: Sādhanas
+    5cfee0c06eb04fbd86a24304c886a4a1:
+      title: 'Transference: Enlightenment Without Meditation (root text)'
+      parent: Transference (Phowa)
+    d889d660707b4cdea431fc064b2dc518:
+      title: Brief Prayer of the Feast Gathering
+      parent: Tsok
+    a84903d2dee34a08921683ddf1499fdf:
+      title: Confession and Fulfilment Insert for Accumulating the Practice of Turning
+        Back the Summons of the Ḍākinīs
+      parent: Tsok
+    69a0a5ef63dd4d2ea4946c36631798bd:
+      title: Song of the Feast (Tsok Lu)
+      parent: Tsok
+    02efe8a7383142688bb02352810108e3:
+      title: 'Calling the Guru from Afar: A Prayer to Jigme Lingpa'
+      parent: Calling the Guru from Afar
+created_at: '2022-03-01T00:07:12.489792'
+last_modified_at: '2022-03-01T00:07:12.489795'
